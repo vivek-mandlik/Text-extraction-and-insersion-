@@ -86,4 +86,15 @@ public class Practicefile {
 
 	}
 
+//	 for (String s : ls) {
+//		while (columncount < 3) {
+//
+//			Cell cell = row.createCell(columncount);
+//			cell.setCellValue(s);
+//			System.out.print(s);
+//			columncount++;
+//			System.out.println(columncount);
+//		}
+//	}
+
 }
